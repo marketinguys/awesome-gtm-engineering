@@ -43,6 +43,7 @@
 * **[Amplitude](https://amplitude.com/)** – Event tracking and growth analytics.
 * **[Heap](https://heap.io/)** – Autocapturing event data with retroactive analysis.
 * **[Plausible](https://plausible.io/)** – Lightweight, privacy-first web analytics.
+* **[GEOScore AI](https://geoscoreai.com/)** – Free GEO audit tool. Measures website visibility in AI search engines across 9 diagnostic signals.
 
 ## Web Tagging & GTM Platforms
 
