@@ -57,6 +57,7 @@
 * **[Marketo REST API](https://developers.marketo.com/rest-api/)** – Sync data across lead lifecycle and attribution.
 * **[Customer.io](https://customer.io/docs/api/)** – Trigger messages via API.
 * **[SendGrid](https://docs.sendgrid.com/)** – Email campaign and transactional email automation.
+* **[Overloop CLI](https://github.com/sortlist/overloop-cli)** – AI-powered outbound engine. Source 450M+ contacts, email + LinkedIn campaigns, conversations. JSON output.
 
 ## Growth Engineering Tools
 
@@ -64,6 +65,7 @@
 * **[Mutiny](https://www.mutinyhq.com/)** – Website personalization with no-code rules and APIs.
 * **[VWO](https://vwo.com/)** – Testing and experimentation platform.
 * **[Statsig](https://www.statsig.com/)** – Feature gating + experimentation.
+* **[Signals CLI](https://github.com/sortlist/signals-cli)** – Intent signal monitoring. LinkedIn engagers, keyword posters, job changers, funding. JSON output.
 
 ## Data Infrastructure
 
