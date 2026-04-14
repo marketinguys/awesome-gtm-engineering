@@ -36,6 +36,7 @@
 * **[UTM.io](https://utm.io/)** – Manage and track UTM parameters at scale.
 * **[Funnel](https://funnel.io/)** – Multi-touch attribution and marketing data unification.
 * **[Open Pixel](https://openpixel.dev/)** – Open-source pixel tracking library.
+* **[mbuzz](https://mbuzz.co/)** – Server-side multi-touch attribution with open-source SDKs (Ruby, Node, Python, PHP) and a custom attribution DSL.
 
 ## Analytics & Event Instrumentation
 
