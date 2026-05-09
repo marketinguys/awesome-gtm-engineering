@@ -84,6 +84,7 @@
 * **[Growth Loops by Reforge](https://www.reforge.com/blog/growth-loops)** – Systemic models for GTM.
 * **[GTM Tech Stack Playbook](https://openviewpartners.com/blog/gtm-tech-stack/)** – Overview of tools and architecture.
 * **[Growth Model Templates](https://growth.design/)** – Mental models and case studies for product growth.
+* **[Embercore](https://github.com/embercore-labs/embercore)** – AI-powered GTM playbook generator. Turns product briefs into full go-to-market plans with brand positioning, channel strategy, and campaign briefs. Open-source, LLM-powered.
 
 ## Communities
 
