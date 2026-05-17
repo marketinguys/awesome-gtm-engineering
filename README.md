@@ -76,6 +76,7 @@
 
 * **[Optimizely](https://www.optimizely.com/)** – Robust platform for testing, targeting, and personalization.
 * **[GrowthBook](https://www.growthbook.io/)** – Open-source feature flags and A/B testing.
+* **[Trial-to-Paid Conversion Sample Size Calculator](https://trial-to-paid-conversion-sample-size-calculator.vercel.app/)** – No-signup calculator for planning SaaS trial-to-paid A/B test sample size, expected paid conversions, and readout timing.
 * **[Split.io](https://www.split.io/)** – Controlled rollouts and experimentation.
 * **[Google Optimize (Sunset)](https://optimize.google.com/)** – Free testing platform (deprecated in 2023).
 
