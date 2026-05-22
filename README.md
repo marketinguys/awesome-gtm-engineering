@@ -64,6 +64,7 @@
 * **[Mutiny](https://www.mutinyhq.com/)** – Website personalization with no-code rules and APIs.
 * **[VWO](https://vwo.com/)** – Testing and experimentation platform.
 * **[Statsig](https://www.statsig.com/)** – Feature gating + experimentation.
+* **[Beton Inspector](https://github.com/getbeton/inspector)** – Open-source revenue intelligence; turns PostHog product-usage data + CRM into scored buying signals and routes the warmest accounts to sales. Self-hostable. (OSS alternative to Pocus / Common Room.)
 
 ## Data Infrastructure
 
