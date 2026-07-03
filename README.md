@@ -61,6 +61,7 @@
 ## Growth Engineering Tools
 
 * **[Clearbit](https://clearbit.com/)** – Enrichment APIs for leads, traffic, and personalization.
+* **[GetAppNiche](https://getappniche.com/)** – iOS App Store market intelligence for app revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
 * **[Mutiny](https://www.mutinyhq.com/)** – Website personalization with no-code rules and APIs.
 * **[VWO](https://vwo.com/)** – Testing and experimentation platform.
 * **[Statsig](https://www.statsig.com/)** – Feature gating + experimentation.
