@@ -34,6 +34,7 @@
 
 * **[Snowplow](https://snowplow.io/)** – First-party event tracking infrastructure.
 * **[UTM.io](https://utm.io/)** – Manage and track UTM parameters at scale.
+* **[UTM Generator](https://devbox.tools/utils/utm-generator)** – Free browser-based tool to generate and validate UTM tags for campaign tracking with support for all advertising platforms.
 * **[Funnel](https://funnel.io/)** – Multi-touch attribution and marketing data unification.
 * **[Open Pixel](https://openpixel.dev/)** – Open-source pixel tracking library.
 
