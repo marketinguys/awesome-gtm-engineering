@@ -64,6 +64,7 @@
 * **[Mutiny](https://www.mutinyhq.com/)** – Website personalization with no-code rules and APIs.
 * **[VWO](https://vwo.com/)** – Testing and experimentation platform.
 * **[Statsig](https://www.statsig.com/)** – Feature gating + experimentation.
+* **[Autoposting](https://autoposting.ai)** – Social publishing API and MCP server for scheduled, AI-generated posts.
 
 ## Data Infrastructure
 
