@@ -64,6 +64,7 @@
 * **[Mutiny](https://www.mutinyhq.com/)** – Website personalization with no-code rules and APIs.
 * **[VWO](https://vwo.com/)** – Testing and experimentation platform.
 * **[Statsig](https://www.statsig.com/)** – Feature gating + experimentation.
+* **[AdMapix](https://www.admapix.com/)** – Ad creative intelligence for growth teams: search competitor ads across channels and turn creative signals into research briefs.
 
 ## Data Infrastructure
 
