@@ -53,6 +53,7 @@
 
 ## Marketing Automation APIs
 
+* **[BulkPublish](https://github.com/azeemkafridi/bulkpublish-api)** – API and reusable AI-agent skills for planning, adapting, reviewing, scheduling, and publishing social media content across channels; see the [MCP documentation](https://app.bulkpublish.com/docs).
 * **[HubSpot API](https://developers.hubspot.com/docs/api/overview)** – Automate contacts, forms, emails, and tracking.
 * **[Marketo REST API](https://developers.marketo.com/rest-api/)** – Sync data across lead lifecycle and attribution.
 * **[Customer.io](https://customer.io/docs/api/)** – Trigger messages via API.
