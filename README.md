@@ -64,6 +64,7 @@
 * **[Mutiny](https://www.mutinyhq.com/)** – Website personalization with no-code rules and APIs.
 * **[VWO](https://vwo.com/)** – Testing and experimentation platform.
 * **[Statsig](https://www.statsig.com/)** – Feature gating + experimentation.
+* **[Revnu](https://revnu.com/)** – AI growth agent that runs cold email, LinkedIn outreach and paid ads.
 
 ## Data Infrastructure
 
