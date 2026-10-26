@@ -64,6 +64,7 @@
 * **[Mutiny](https://www.mutinyhq.com/)** – Website personalization with no-code rules and APIs.
 * **[VWO](https://vwo.com/)** – Testing and experimentation platform.
 * **[Statsig](https://www.statsig.com/)** – Feature gating + experimentation.
+* **[WishKit](https://www.wishkit.io/)** – In-app feature requests and user voting for iOS and web apps.
 
 ## Data Infrastructure
 
