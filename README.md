@@ -84,6 +84,7 @@
 * **[Growth Loops by Reforge](https://www.reforge.com/blog/growth-loops)** – Systemic models for GTM.
 * **[GTM Tech Stack Playbook](https://openviewpartners.com/blog/gtm-tech-stack/)** – Overview of tools and architecture.
 * **[Growth Model Templates](https://growth.design/)** – Mental models and case studies for product growth.
+* **[Marketing as Code](https://github.com/calven-ai/marketing-as-code)** – Starter repo for running marketing as plain text: strategy, content, decisions and 111 agent skills a coding agent reads and writes, with a human review gate.
 
 ## Communities
 
