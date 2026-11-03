@@ -6,6 +6,7 @@
 
 * [General Resources](#general-resources)
 * [GTM Engineering Foundations](#gtm-engineering-foundations)
+* [AI & Agent-Native GTM Engineering](#ai--agent-native-gtm-engineering)
 * [Attribution & Tracking](#attribution--tracking)
 * [Analytics & Event Instrumentation](#analytics--event-instrumentation)
 * [Web Tagging & GTM Platforms](#web-tagging--gtm-platforms)
@@ -29,6 +30,10 @@
 * **[Segment Docs](https://segment.com/docs/)** – Customer data infrastructure basics.
 * **[RudderStack Docs](https://www.rudderstack.com/docs/)** – Open-source Segment alternative.
 * **[dbt for Marketing](https://www.getdbt.com/blog/dbt-marketing-data-models/)** – Data transformation for marketing teams.
+
+## AI & Agent-Native GTM Engineering
+
+* **[Synter](https://github.com/synter-media/synter-media/tree/main/packages/mcp-server)** – Open-source Model Context Protocol (MCP) server & TypeScript/Python SDKs for GTM engineers to automate ad platforms (Google Ads, Meta, LinkedIn, X, Reddit, TikTok, Snap, Microsoft, Amazon Ads/DSP, etc.). Provides 100% free diagnostic reads ($0.00 / 0 credits), zero-credential sandbox testing (`--demo`), and Ångström live mutation verification. Published as `@synterai/mcp-server` and `@synterai/sdk-js`.
 
 ## Attribution & Tracking
 
