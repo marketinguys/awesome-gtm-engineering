@@ -61,6 +61,7 @@
 ## Growth Engineering Tools
 
 * **[Clearbit](https://clearbit.com/)** – Enrichment APIs for leads, traffic, and personalization.
+* **[EarlyLore](https://earlylore.com/)** – Research workspace for founders: study real SaaS products, revenue signals and competitor page changes before you build.
 * **[Mutiny](https://www.mutinyhq.com/)** – Website personalization with no-code rules and APIs.
 * **[VWO](https://vwo.com/)** – Testing and experimentation platform.
 * **[Statsig](https://www.statsig.com/)** – Feature gating + experimentation.
