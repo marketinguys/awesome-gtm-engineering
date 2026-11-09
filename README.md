@@ -60,6 +60,7 @@
 
 ## Growth Engineering Tools
 
+* **[AdVariq](https://advariq.com/)** – AI commercial ad creative and product marketing visual generator for DTC brands and growth marketers.
 * **[Clearbit](https://clearbit.com/)** – Enrichment APIs for leads, traffic, and personalization.
 * **[Mutiny](https://www.mutinyhq.com/)** – Website personalization with no-code rules and APIs.
 * **[VWO](https://vwo.com/)** – Testing and experimentation platform.
