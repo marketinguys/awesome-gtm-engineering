@@ -64,6 +64,7 @@
 * **[Mutiny](https://www.mutinyhq.com/)** – Website personalization with no-code rules and APIs.
 * **[VWO](https://vwo.com/)** – Testing and experimentation platform.
 * **[Statsig](https://www.statsig.com/)** – Feature gating + experimentation.
+* **[FlashData](https://flashdata.dev/)** – Google Search, News, Shopping and Places plus YouTube search, metadata and transcripts for market and content research; API key and paid credits required.
 
 ## Data Infrastructure
 
