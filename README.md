@@ -61,6 +61,7 @@
 ## Growth Engineering Tools
 
 * **[Clearbit](https://clearbit.com/)** – Enrichment APIs for leads, traffic, and personalization.
+* **[Leadsets](https://www.leadsets.ai/)** – Unlimited B2B Contact Data for AI Agents, starting from $29/mo, via search, enrichment, and email verification APIs.
 * **[Mutiny](https://www.mutinyhq.com/)** – Website personalization with no-code rules and APIs.
 * **[VWO](https://vwo.com/)** – Testing and experimentation platform.
 * **[Statsig](https://www.statsig.com/)** – Feature gating + experimentation.
