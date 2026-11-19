@@ -42,6 +42,7 @@
 * **[PostHog](https://posthog.com/)** – Product analytics + session recording with full API.
 * **[Amplitude](https://amplitude.com/)** – Event tracking and growth analytics.
 * **[Heap](https://heap.io/)** – Autocapturing event data with retroactive analysis.
+* **[Historical Snapshots](https://ecosystem.hubspot.com/marketplace/listing/historical-snapshots-weekly-digest)** – Point-in-time pipeline snapshots, stage velocity tracking, and automated weekly trend digests for HubSpot CRM.
 * **[Plausible](https://plausible.io/)** – Lightweight, privacy-first web analytics.
 
 ## Web Tagging & GTM Platforms
