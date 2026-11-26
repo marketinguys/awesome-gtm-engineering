@@ -62,6 +62,8 @@
 
 * **[Clearbit](https://clearbit.com/)** – Enrichment APIs for leads, traffic, and personalization.
 * **[Mutiny](https://www.mutinyhq.com/)** – Website personalization with no-code rules and APIs.
+* **[InboxShield](https://inbox.shipbastion.com/)** – Outbound email authentication (SPF 10-lookup flattener, DMARC, DKIM, BIMI, MTA-STS) audit and API.
+* **[CiteReady](https://cite.shipbastion.com/)** – AI search visibility, Schema.org entity graph, and `/llms.txt` readiness auditor.
 * **[VWO](https://vwo.com/)** – Testing and experimentation platform.
 * **[Statsig](https://www.statsig.com/)** – Feature gating + experimentation.
 
